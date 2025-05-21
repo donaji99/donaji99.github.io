@@ -74,7 +74,7 @@ export const skills = {
     "Excel (Advanced)",
     
   ],
-  machineLearningAndAI: ["Scikit-learn", "NLTK", "spaCy", "Satatsmodels"],
+  machineLearningAndAI: ["Scikit-learn", "NLTK", "SpaCy", "Statsmodels"],
   dataEngineeringAndETL: ["Databricks", "Apache Spark","ETL with Python & SQL"],
   
   cloudAndDevOps: ["Azure (Power BI Service", "Git", "GitHub"],
