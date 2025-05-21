@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Donají Ramos",
-  location: "Querétaro, México",
+  location: "Queretaro, Mexico",
   email: "donajiramosn@gmail.com",
   github: "https://github.com/donaji99",
   linkedin: "https://www.linkedin.com/in/donajiramosnu%C3%B1ez/",
@@ -9,7 +9,7 @@ export const personalInfo = {
 export const workExperience = [
   {
     company: "Michelin",
-    location: "hybrid",
+    location: "Queretaro, Mexico",
     position: "Marketing Analyst",
     period: "Nov 2023 - Present",
     achievements: [
@@ -22,37 +22,41 @@ export const workExperience = [
   {
     company: "Restaurant Sabor a la Mesa",
     location: "Oaxaca, Mexico",
-    position: "Software Engineer",
-    period: "Mar 2023 - Mar 2024",
+    position: "Business Analyst and Marketing Coordinator",
+    period: "Jun 2022 - Jul 2023",
     achievements: [
       "Developed and implemented an Excel-based financial tracking system and interactive Power BI dashboards, digitizing income and expense reporting to improve data accuracy by 30% and empower management with actionable business insights.",
       "Managed data analysis for marketing campaigns, improving visibility and sales by 50% through targeted promotions, customer segmentation, and performance tracking.",
+      "Designed digital content such as menus, promotional materials, and managed social media, supporting brand presence and customer engagement."
     ],
   },
   {
-    company: "Phoenitags",
-    location: "Coimbatore, India",
-    position: "Software Engineering Intern",
-    period: "Jan 2023 - Mar 2023",
+    company: "Holiday Inn hotel",
+    location: "Queretaro, Mexico",
+    position: "Assistant in the Area of Social Events",
+    period: "Jul 2022 - Sep 2022",
     achievements: [
-      "Built interactive UIs with React.js, focusing on reusable components and performance optimization.",
-      "Implemented JavaScript-based features like user authentication and real-time updates.",
+      "Analyzed guest satisfaction surveys and operational data to propose enhancements to service delivery, contributing to a 15% increase in event bookings.",
+      "Spearheaded sales and marketing initiatives by developing promotional content using Canva, resulting in a 25% increase in event visibility and attendance.",
     ],
   },
 ];
 
 export const education = [
   {
-    institution: "Sri Krishna College of Engineering and Technology",
-    location: "Coimbatore, India",
-    degree: "B Tech Information Technology",
-    period: "Jun 2021 - Jun 2025",
+    institution: "Universidad Tecnologica de la Mixteca",
+    location: "Oaxaca, Mexico",
+    degree: "Master's in Data Science",
+    period: "Aug 2024 - In Progress",
     achievements: [
       "President of the Department of Information Technology",
       "G20 student delegate",
       "Organized multiple technical workshops and events",
       "Represented my college in multiple national and international hackathons and won.",
     ],
+
+    
+
   },
 ];
 export const skills = {
