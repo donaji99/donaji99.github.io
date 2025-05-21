@@ -1,9 +1,9 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Donají Ramos",
+  location: "Querétaro, México",
+  email: "donajiramosn@gmail.com",
+  github: "https://github.com/donaji99",
+  linkedin: "https://www.linkedin.com/in/donajiramosnu%C3%B1ez/",
 };
 
 export const workExperience = [
