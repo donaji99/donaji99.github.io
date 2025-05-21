@@ -83,7 +83,7 @@ export default function SkillsSection() {
                 <span className="mr-2 text-xl">🎨</span> Frontend Development
               </h3>
               <div className="flex flex-wrap gap-2 justify-center md:justify-start">
-                {skills.frontendDevelopment.map((skill, index) => (
+                {skills.dataAnalysisAndVisualization.map((skill, index) => (
                   <SkillTag key={skill} skill={skill} index={index} />
                 ))}
               </div>
@@ -96,7 +96,7 @@ export default function SkillsSection() {
                 <span className="mr-2 text-xl">⚙️</span> Backend Development
               </h3>
               <div className="flex flex-wrap gap-2 justify-center md:justify-start">
-                {skills.backendDevelopment.map((skill, index) => (
+                {skills.machineLearningAndAI.map((skill, index) => (
                   <SkillTag key={skill} skill={skill} index={index} />
                 ))}
               </div>
@@ -109,7 +109,7 @@ export default function SkillsSection() {
                 <span className="mr-2 text-xl">🗄️</span> Database & Storage
               </h3>
               <div className="flex flex-wrap gap-2 justify-center md:justify-start">
-                {skills.databaseAndStorage.map((skill, index) => (
+                {skills.dataEngineeringAndETL.map((skill, index) => (
                   <SkillTag key={skill} skill={skill} index={index} />
                 ))}
               </div>
