@@ -13,8 +13,7 @@ export const workExperience = [
     position: "Marketing Analyst",
     period: "Nov 2023 - Present",
     achievements: [
-      "Automated ad hoc reporting processes, reducing processing time by 40%.",
-      "Designed and implemented a forecast control dashboard to support better decision-making for the Sales, Marketing, and Supply Chain teams.",
+      "Automated ad hoc reporting and designed a forecast control dashboard in Power BI, reducing processing time by 40% and enabling faster, data-driven forecast adjustments across Sales, Marketing, and Supply Chain.",
       "Developed performance reports and financial dashboards that optimized operations and increased revenue by 25%.",
       "Automated data extraction and transformation (ETL) from Excel, SQL databases, and proprietary systems to streamline reporting.",
       "Integrated real-time sales data from Databricks into Power BI, enabling dynamic dashboards with key KPIs. Boosted data refresh and analysis speed by 35% for faster decision-making.",
