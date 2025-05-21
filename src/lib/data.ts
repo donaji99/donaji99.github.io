@@ -8,17 +8,17 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Chatbyte GmbH",
+    company: "Michelin",
     location: "Remote",
-    position: "Software Engineer",
-    period: "Mar 2024 - Present",
+    position: "Marketing Analyst",
+    period: "Nov 2023 - Present",
     achievements: [
-      "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
-      "Built a comprehensive admin panel for managing content, user data, and analytics.",
-      "Contributed to the development and integration of a scalable CMS for managing blog content and other platform data.",
-      "Reduced database costs by introducing materialized views, optimizing query performance and resource usage.",
-      "Drove the integration of a custom affiliate marketing system, enabling seamless tracking and reporting of referrals and user activities.",
-      "Integrated Text-to-Speech (TTS) services for enhanced user experiences, optimizing both frontend and backend systems.",
+      "Automated ad hoc reporting processes, reducing processing time by 40%.",
+      "Designed and implemented a forecast control dashboard to support better decision-making for the Sales, Marketing, and Supply Chain teams.",
+      "Connected and integrated data stored in Databricks into Power BI to enhance visualization performance.",
+      "Developed performance reports and financial dashboards that optimized operations and increased revenue by 25%.",
+      "Automated data extraction and transformation (ETL) from Excel, SQL databases, and proprietary systems to streamline reporting.",
+      "Integrated real-time sales data from Databricks into Power BI, enabling dynamic dashboards with key KPIs. Boosted data refresh and analysis speed by 35% for faster decision-making.",
       "Collaborated with cross-functional teams to deliver high-quality features, actively reviewing pull requests to ensure code quality, adherence to standards, and efficient implementation.",
     ],
   },
