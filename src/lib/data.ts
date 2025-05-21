@@ -78,16 +78,8 @@ export const skills = {
   dataEngineeringAndETL: ["Databricks", "Apache Spark","ETL with Python & SQL"],
   
   cloudAndDevOps: ["Azure (Power BI Service", "Git", "GitHub"],
-  toolsAndServices: [
-    "Clerk (Auth)",
-    "Sanity (CMS)",
-    "Tinybird (analytics)",
-    "Zod",
-    "Sentry",
-    "Mixpanel",
-    "Trigger.dev",
-  ],
-  softSkillsAndTools: [
+  
+  softSkills: [
     "Analytical thinking",
     "Attention to detail",
     "Data Storytelling",

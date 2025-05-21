@@ -135,7 +135,7 @@ export default function SkillsSection() {
                 <span className="mr-2 text-xl">🧰</span> Tools & Services
               </h3>
               <div className="flex flex-wrap gap-2 justify-center md:justify-start">
-                {skills.toolsAndServices.map((skill, index) => (
+                {skills.softSkills.map((skill, index) => (
                   <SkillTag key={skill} skill={skill} index={index} />
                 ))}
               </div>
