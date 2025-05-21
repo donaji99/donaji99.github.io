@@ -122,15 +122,14 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I thrive on solving complex challenges
-              across different platforms and environments, adapting quickly to
-              new technologies and methodologies. My holistic approach combines
-              technical expertise with creative problem-solving, allowing me to
-              develop solutions that are both innovative and practical. I'm
-              driven by continuous learning and a commitment to excellence,
-              whether working independently or collaborating with diverse teams
-              to create impactful, scalable solutions.
+              🚀 Data Analyst with over 3 years of experience in data extraction, transformation, and
+               analysis within business environments. Skilled in managing and interpreting large 
+               datasets, generating actionable insights, and automating data workflows to enhance 
+               operational efficiency. Proven expertise in creating clear, data-driven reports and 
+               dashboards that support strategic decision-making. Passionate about leveraging 
+               data to solve complex problems and eager to apply analytical skills to drive 
+               impactful results, including contributing to environmental consulting projects
+                through meaningful data insights.
             </p>
           </div>
         </MotionWrapper>
