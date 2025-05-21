@@ -9,7 +9,7 @@ export const personalInfo = {
 export const workExperience = [
   {
     company: "Michelin",
-    location: "Remote",
+    location: "hybrid",
     position: "Marketing Analyst",
     period: "Nov 2023 - Present",
     achievements: [
@@ -25,8 +25,8 @@ export const workExperience = [
     position: "Software Engineer",
     period: "Mar 2023 - Mar 2024",
     achievements: [
-      "Developed responsive frontend components using React.js, enhancing user experience and app performance.",
-      "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
+      "Developed and implemented an Excel-based financial tracking system and interactive Power BI dashboards, digitizing income and expense reporting to improve data accuracy by 30% and empower management with actionable business insights.",
+      "Managed data analysis for marketing campaigns, improving visibility and sales by 50% through targeted promotions, customer segmentation, and performance tracking.",
     ],
   },
   {
