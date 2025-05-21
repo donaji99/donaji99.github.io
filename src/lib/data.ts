@@ -14,7 +14,7 @@ export const workExperience = [
     period: "Nov 2023 - Present",
     achievements: [
       "Automated ad hoc reporting and designed a forecast control dashboard in Power BI, reducing processing time by 40% and enabling faster, data-driven forecast adjustments across Sales, Marketing, and Supply Chain.",
-      "Developed performance reports and financial dashboards that optimized operations and increased revenue by 25%.",
+      "Developed performance reports and financial dashboards using DAX to monitor financial health and prevent overspending, reducing budget variances by 40%.",
       "Automated data extraction and transformation (ETL) from Excel, SQL databases, and proprietary systems to streamline reporting.",
       "Integrated real-time sales data from Databricks into Power BI, enabling dynamic dashboards with key KPIs. Boosted data refresh and analysis speed by 35% for faster decision-making.",
       "Collaborated with cross-functional teams to deliver high-quality features, actively reviewing pull requests to ensure code quality, adherence to standards, and efficient implementation.",
