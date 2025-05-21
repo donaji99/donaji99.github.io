@@ -93,14 +93,14 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Net Zero Carbon Emissions",
-    github: "https://github.com/rishikesh2003/Prodigi",
+    title: "Sentiment Analysis Reviews",
+    github: "https://github.com/donaji99/sentiment-analysis-reviews/blob/main/README%20Sentyment%20Analysis.md",
     description: [
-      "WiFi-RTT: Developed indoor occupancy tracking for energy optimization.",
-      "IoT Solutions: Implemented smart monitoring for energy efficiency and food waste reduction.",
-      "Real-Time Tracking: Designed systems to monitor carbon emissions and optimize resources.",
-      "Data-Driven Insights: Analyzed user patterns for adaptive energy and food management.",
-      "Reward Integration: Built QR-based green points system to incentivize eco-friendly actions.",
+      "Business-Oriented NLP: Applied VADER and RoBERTa models to analyze tire review sentiment, identifying user satisfaction patterns across brands and vehicle types.",
+      "Customer Insight Segmentation: Detected highly satisfied and dissatisfied customers to inform reputation campaigns and customer service strategies.",
+      "Visual Reporting: Created brand comparison visualizations that highlight trends in satisfaction and dissatisfaction.",
+      "Marketing Impact: Extracted potential brand ambassadors and key improvement areas, enabling data-driven marketing and product strategies.",
+      "Scalable Use Case: Designed for replicability across product lines and geographies in after-sales, customer support, and brand management.",
     ],
   },
   {
