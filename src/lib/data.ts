@@ -65,25 +65,19 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "TypeScript",
-    "JavaScript",
     "Python",
-    "C++",
-    "Java",
-    "Solidity",
+    "SQL",
+    "R",
   ],
-  frontendDevelopment: [
-    "Nextjs",
-    "Reactjs",
-    "React Native",
-    "Shadcn UI",
-    "Tailwind CSS",
-    "HTML",
-    "CSS",
+  dataAnalysisAndVisualization: [
+    "Power BI",
+    "Excel (Advanced)",
+    
   ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
-  cloudAndDevOps: ["AWS"],
+  machineLearningAndAI: ["Scikit-learn", "NLTK", "spaCy", "Satatsmodels"],
+  dataEngineeringAndETL: ["Databricks", "Apache Spark","ETL with Python & SQL"],
+  
+  cloudAndDevOps: ["Azure (Power BI Service", "Git", "GitHub"],
   toolsAndServices: [
     "Clerk (Auth)",
     "Sanity (CMS)",
@@ -93,6 +87,16 @@ export const skills = {
     "Mixpanel",
     "Trigger.dev",
   ],
+  softSkillsAndTools: [
+    "Analytical thinking",
+    "Attention to detail",
+    "Data Storytelling",
+    "Critical Thinking",
+    "Collaboration and teamwork",
+    "Adaptability to change",
+    "Time management",
+    "Ethical awareness in data use"
+  ]
 };
 
 export const projects = [
