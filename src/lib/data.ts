@@ -49,19 +49,17 @@ export const education = [
     degree: "Master's in Data Science",
     period: "Aug 2024 - In Progress",
     achievements: [
-      "President of the Department of Information Technology",
-      "G20 student delegate",
-      "Organized multiple technical workshops and events",
-      "Represented my college in multiple national and international hackathons and won.",
+      "Working on real-world projects involving machine learning, NLP, and web scraping to extract insights and automate business decisions, bridging the gap between data and strategic action",
+      
     ],
   },
   {
     institution: "Universidad Tecnológica de la Mixteca",
     location: "Oaxaca, Mexico",
     degree: "Bachelor's in Business Sciences",
-    period: "Aug 2017 - Jul 2021",
+    period: "Aug 2018 - Jul 2023",
     achievements: [
-      "Graduated with honors",
+      "Awarded the CENEVAL award for Excelence in Performace, a national recognition granted to top-performing graduates in Mexico",
     ]
   },
 ];
