@@ -104,7 +104,7 @@ export const projects = [
     ],
   },
   {
-    title: "Mental Aarog",
+    title: "Customer & Product Analytics Report",
     github: "https://github.com/donaji99/sql-data-sales-analytics-project/blob/main/README.md",
     description: [
       "A holistic mental health app leveraging AI and blockchain for early detection and personalized solutions for depression.",
