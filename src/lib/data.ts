@@ -205,4 +205,4 @@ export const projects = [
     position: "Most Impactful Hack",
   },
 ];
-/*
+*/
