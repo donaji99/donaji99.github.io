@@ -112,7 +112,7 @@ export const projects = [
     "Time-series analysis revealed seasonal sales patterns, supporting strategic decisions based on historical behavior.",
     "Delivered two final reports—Customer Report and Product Report—summarizing key KPIs such as revenue, units sold, customer count, and lifecycle metrics.",
     "Insights informed business actions like prioritizing U.S. market efforts, focusing on bicycles (96% of revenue), and identifying growth potential in apparel and accessories.",
-    "Built as a reusable SQL framework adaptable to new product lines and regional campaigns.",
+    "Built as a reusable SQL framework adaptable to new product lines and regional campaigns",
     ],
     
 
