@@ -107,11 +107,12 @@ export const projects = [
     title: "Customer & Product Analytics Report",
     github: "https://github.com/donaji99/sql-data-sales-analytics-project/blob/main/README.md",
     description: [
-      "A holistic mental health app leveraging AI and blockchain for early detection and personalized solutions for depression.",
-      "Features include social media analysis (ML-based sentiment tracking), PHQ-9 assessments, smartwatch integration for sleep and activity data, guided meditation, and smart suggestions for food, travel, music, and movies.",
-      "Developed a rewards system using MAG crypto token on Ethereum, enabling user engagement through in-app incentives.",
-      "Secure storage implemented via web3.storage, IPFS, and FileCoin.",
-      "Built with React, Supabase, Node.js, Flask, and Solidity, showcasing seamless integration of health tech and blockchain.",
+      "A SQL-based business intelligence framework for analyzing customer behavior and product performance using relational queries and tabular reporting.",
+      "Features include RFM segmentation through advanced SQL queries to identify VIP, regular, and new customers; product classification by sales performance to spotlight high-revenue drivers (e.g., Mountain-200 bikes) and low-performing items (e.g., sport socks).",
+      "Time-series analysis of sales data uncovers seasonal patterns and growth trends, with notable peaks in 2011 and 2013, enabling strategic planning based on historical demand.",
+      "Delivered two final reports—Customer Report and Product Report—summarizing key KPIs such as total revenue, units sold, customer count, and lifecycle metrics.",
+      "Key insights informed business actions, such as focusing on the U.S. as the top-performing market, prioritizing bike sales (96% of total revenue), and identifying growth opportunities in apparel and accessories.",
+      "Designed as a scalable and reusable SQL model adaptable to future product lines or regional campaigns.",
     ],
     
 
