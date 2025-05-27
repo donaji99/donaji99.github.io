@@ -107,12 +107,12 @@ export const projects = [
     title: "Customer & Product Analytics – SQL-Driven Business Intelligence",
     github: "https://github.com/donaji99/sql-data-sales-analytics-project/blob/main/README.md",
     description: [
-      "A SQL-based business intelligence framework for analyzing customer behavior and product performance using relational queries and tabular reporting.",
-      "Features include RFM segmentation through advanced SQL queries to identify VIP, regular, and new customers; product classification by sales performance to spotlight high-revenue drivers (e.g., Mountain-200 bikes) and low-performing items (e.g., sport socks).",
-      "Time-series analysis of sales data uncovers seasonal patterns and growth trends, with notable peaks in 2011 and 2013, enabling strategic planning based on historical demand.",
-      "Delivered two final reports—Customer Report and Product Report—summarizing key KPIs such as total revenue, units sold, customer count, and lifecycle metrics.",
-      "Key insights informed business actions, such as focusing on the U.S. as the top-performing market, prioritizing bike sales (96% of total revenue), and identifying growth opportunities in apparel and accessories.",
-      "Designed as a scalable and reusable SQL model adaptable to future product lines or regional campaigns.",
+    "A SQL-based business intelligence solution to analyze customer behavior and product performance using relational queries and structured tabular reporting.",
+    "Features include RFM segmentation to identify VIP, regular, and new customers, and product classification by sales performance to highlight high-revenue drivers (e.g., Mountain-200 bikes) and underperformers (e.g., sport socks).",
+    "Time-series analysis revealed seasonal sales patterns, supporting strategic decisions based on historical behavior.",
+    "Delivered two final reports—Customer Report and Product Report—summarizing key KPIs such as revenue, units sold, customer count, and lifecycle metrics.",
+    "Insights informed business actions like prioritizing U.S. market efforts, focusing on bicycles (96% of revenue), and identifying growth potential in apparel and accessories.",
+    "Built as a reusable SQL framework adaptable to new product lines and regional campaigns.",
     ],
     
 
