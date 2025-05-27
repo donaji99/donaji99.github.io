@@ -104,7 +104,7 @@ export const projects = [
     ],
   },
   {
-    title: "Customer & Product Analytics Report",
+    title: "Customer & Product Analytics – SQL-Driven Business Intelligence",
     github: "https://github.com/donaji99/sql-data-sales-analytics-project/blob/main/README.md",
     description: [
       "A SQL-based business intelligence framework for analyzing customer behavior and product performance using relational queries and tabular reporting.",
@@ -119,6 +119,7 @@ export const projects = [
 
 
   },
+  /*
   {
     title: "Power BI",
     github: "https://github.com/rishikesh2003/mental-aarog",
@@ -131,6 +132,7 @@ export const projects = [
     ],
   
   },
+  */
   {
     title: "R proyecto",
     github: "https://github.com/rishikesh2003/mental-aarog",
