@@ -170,7 +170,7 @@ export const projects = [
     position: "Second Runner-up",
   },
   {
-    name: "Cisco Thingqbator Hackathon",
+    name: "Cisco Thingqbator ",
     issuer: "Cisco",
     date: "Jan 2023",
     type: "National",
