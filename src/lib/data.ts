@@ -119,7 +119,7 @@ export const projects = [
 
 
   },
-  
+
   /*
   {
     title: "Power BI",
@@ -154,7 +154,7 @@ export const projects = [
 
 ];
 
-export const awards = [
+/*export const awards = [
   {
     name: "IEEE YESIST12 Hackathon",
     issuer: "IEEE",
@@ -205,3 +205,4 @@ export const awards = [
     position: "Most Impactful Hack",
   },
 ];
+/*
