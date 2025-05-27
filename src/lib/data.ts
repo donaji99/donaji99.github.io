@@ -119,6 +119,7 @@ export const projects = [
 
 
   },
+  
   /*
   {
     title: "Power BI",
@@ -132,7 +133,7 @@ export const projects = [
     ],
   
   },
-  */
+  
   {
     title: "R proyecto",
     github: "https://github.com/rishikesh2003/mental-aarog",
@@ -145,7 +146,7 @@ export const projects = [
     ],
 
   }
-
+  */
   
   
 
