@@ -98,7 +98,7 @@ export const projects = [
     description: [
       "Business-Oriented NLP: Applied VADER and RoBERTa models to analyze tire review sentiment, identifying user satisfaction patterns across brands and vehicle types.",
       "Customer Insight Segmentation: Detected highly satisfied and dissatisfied customers to inform reputation campaigns and customer service strategies.",
-      "Visual Reporting: Created brand comparison visualizations that highlight trends in satisfaction and dissatisfaction.",
+      "Visual Reporting: Created brand1 comparison visualizations that highlight trends in satisfaction and dissatisfaction.",
       "Marketing Impact: Extracted potential brand ambassadors and key improvement areas, enabling data-driven marketing and product strategies.",
       "Scalable Use Case: Designed for replicability across product lines and geographies in after-sales, customer support, and brand management.",
     ],
