@@ -156,10 +156,10 @@ export const projects = [
 
 export const awards = [
   {
-    name: "Ceneval Award",
-    issuer: "Cisco",
-    date: "Jan 2023",
+    name: "Premio CENEVAL al Desempeño de Excelencia - EGEL",
+    issuer: "Centro Nacional de Evaluación para la Educación Superior (CENEVAL)",
+    date: "Dec 2023",
     type: "National",
-    position: "First Runner-up",
+    position: "Reconocimiento por resultado sobresaliente en el EGEL de Administración",
   },
 ];
